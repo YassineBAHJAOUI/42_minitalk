@@ -1,5 +1,5 @@
 # 42_minitalk
-1337-minitalk-42
+minitalk-42
 Small data exchange program using UNIX signals.
 
 Resources
